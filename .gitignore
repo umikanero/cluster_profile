@@ -19,3 +19,4 @@ build/
 
 # Ignore pypi config
 .pypirc
+.DS_Store
