@@ -1,3 +1,6 @@
+# coding=UTF-8
+# This Python file uses the following encoding: utf-8
+
 ## @file cluster_profile.py
 #
 #  CLUSTER PROFILE FUNCTIONS 
@@ -180,7 +183,7 @@ def best_fit(opts, R_proj, r_scale_ini, grid, bg_density_ini = 0.0, fit_bg = Tru
     ks_param = ks_2samp(np.interp(rd, x_fit, y_fit), dp)
 
     # Evaluate A-D test
-    ad_param = anderson_ksamp([np.interp(rd, x_fit, y_fit), dp])
+    # ad_param = anderson_ksamp([np.interp(rd, x_fit, y_fit), dp])
 
     if opts.confidence:
         # Evaluate confidence intervals for r_s
@@ -197,6 +200,6 @@ def best_fit(opts, R_proj, r_scale_ini, grid, bg_density_ini = 0.0, fit_bg = Tru
     print ' Probability of the fit is', chi2_param[1], '[rejected if > 0.99]'
     print ''
     print ' KS test resuls:', ks_param[0], ks_param[1]
-    print ' AD test results:', ad_param[0], ad_param[2]
+    # print ' AD test results:', ad_param[0], ad_param[2]
 
     return [r_scale_best, bg_density_best], [rd, dp, edp], [x_fit, y_fit], chi2_param

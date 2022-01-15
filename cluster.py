@@ -29,6 +29,7 @@ def main():
     data = cluster_io.read_ascii(opts)
 
     if not opts.radial:
+        print(data.shape)
 
         # Add X Y data
         data = cluster_props.xy_centre(data, H0 = opts.H0)
@@ -76,6 +77,10 @@ def main():
 
     if opts.log:
         cluster_io.write_p_data(opts, p_data)
+
+    # out put the profile of each cluster
+    with open('/Users/mahaixia/VIPERS_MOCK/Clusters.txt', 'ab') as f_clusters:
+        np.savetxt(f_clusters, np.array([p_data[0],]))
 
     # Make plots
     if 'zhist' in opts.plot:

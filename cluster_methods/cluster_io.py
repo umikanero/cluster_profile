@@ -1,3 +1,6 @@
+# coding=UTF-8
+# This Python file uses the following encoding: utf-8
+
 ## @file cluster_io.py
 #
 #  CLUSTER IO FUNCTIONS 

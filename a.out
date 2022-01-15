@@ -1,0 +1,110 @@
+===========================================================
+ * Cluster ID =  1
+ Successfully read: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat (14 members)
+(14, 4)
+ 14 members within R = 10.0 Mpc.
+===========================================================
+ Fitting the scale radius and the background for 14 members.
+ Initial estimates of parameters:  0.3 10.0
+ Only  14 data - not enough for the profiles
+ Using NFW profile.
+
+ Best-fit r_s: 0.047943166129312084
+ Best-fit background density: 14.024468388748401 gals/Mpc^2
+
+ Chi^2 of the fit is 1.0624369390317359 for 1 d.o.f.
+ Probability of the fit is 0.6973399669285529 [rejected if > 0.99]
+
+ KS test resuls: 0.33333333333333337 0.9762126488644778
+===========================================================
+ Outputting log data to: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat.log_data
+ Profile plot saved to: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat.nfw.profile.pdf
+===========================================================
+===========================================================
+ * Cluster ID =  2
+ Successfully read: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat (12 members)
+(12, 4)
+ 12 members within R = 10.0 Mpc.
+===========================================================
+ Fitting the scale radius and the background for 12 members.
+ Initial estimates of parameters:  0.3 10.0
+ Only  12 data - not enough for the profiles
+ Using NFW profile.
+
+ Best-fit r_s: 0.0010000000001953982
+ Best-fit background density: 6.690345101325528 gals/Mpc^2
+
+ Chi^2 of the fit is 4.595400986829569 for 1 d.o.f.
+ Probability of the fit is 0.967942156996087 [rejected if > 0.99]
+
+ KS test resuls: 0.33333333333333337 0.9762126488644778
+===========================================================
+ Outputting log data to: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat.log_data
+ Profile plot saved to: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat.nfw.profile.pdf
+===========================================================
+===========================================================
+ * Cluster ID =  3
+ Successfully read: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat (10 members)
+(10, 4)
+ 10 members within R = 10.0 Mpc.
+===========================================================
+ Fitting the scale radius and the background for 10 members.
+ Initial estimates of parameters:  0.3 10.0
+ Only  10 data - not enough for the profiles
+ Using NFW profile.
+
+ Best-fit r_s: 0.001000000068867152
+ Best-fit background density: 9.178758419141078 gals/Mpc^2
+
+ Chi^2 of the fit is 60.78442853724309 for 0 d.o.f.
+ Probability of the fit is nan [rejected if > 0.99]
+
+ KS test resuls: 0.5 0.8438198245415606
+===========================================================
+ Outputting log data to: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat.log_data
+ Profile plot saved to: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat.nfw.profile.pdf
+===========================================================
+===========================================================
+ * Cluster ID =  4
+ Successfully read: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat (10 members)
+(10, 4)
+ 10 members within R = 10.0 Mpc.
+===========================================================
+ Fitting the scale radius and the background for 10 members.
+ Initial estimates of parameters:  0.3 10.0
+ Only  10 data - not enough for the profiles
+ Using NFW profile.
+
+ Best-fit r_s: 0.001
+ Best-fit background density: 3.7242089743028886 gals/Mpc^2
+
+ Chi^2 of the fit is 4.0288414054419395 for 0 d.o.f.
+ Probability of the fit is nan [rejected if > 0.99]
+
+ KS test resuls: 0.5 0.8438198245415606
+===========================================================
+ Outputting log data to: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat.log_data
+ Profile plot saved to: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat.nfw.profile.pdf
+===========================================================
+===========================================================
+ * Cluster ID =  5
+ Successfully read: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat (10 members)
+(10, 4)
+ 10 members within R = 10.0 Mpc.
+===========================================================
+ Fitting the scale radius and the background for 10 members.
+ Initial estimates of parameters:  0.3 10.0
+ Only  10 data - not enough for the profiles
+ Using NFW profile.
+
+ Best-fit r_s: 0.001
+ Best-fit background density: 10.587558869331868 gals/Mpc^2
+
+ Chi^2 of the fit is 0.6521214601185019 for 0 d.o.f.
+ Probability of the fit is nan [rejected if > 0.99]
+
+ KS test resuls: 0.5 0.8438198245415606
+===========================================================
+ Outputting log data to: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat.log_data
+ Profile plot saved to: /Users/mahaixia/Documents/GitHub/FOF/VIPERS_W4.txt_members_0.2_0.01_spec.dat.nfw.profile.pdf
+===========================================================
